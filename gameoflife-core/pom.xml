@@ -14,11 +14,11 @@
   <url>${HUDSON_URL}</url>
   <build>
     <plugins>
-      <plugin>
+<!--       <plugin>
         <groupId>org.easyb</groupId>
         <artifactId>maven-easyb-plugin</artifactId>
         <version>${easyb.version}</version>
-      </plugin>
+      </plugin> -->
     </plugins>
   </build>
   <dependencies>
