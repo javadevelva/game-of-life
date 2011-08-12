@@ -1,5 +1,5 @@
 package com.wakaleo.gameoflife.domain
-/*
+
 import static com.wakaleo.gameoflife.domain.Universe.seededWith;
 
 description "This story describes how new generations are spawned in the GOL universe"
@@ -28,4 +28,3 @@ scenario "A universe seeded with an initial grid of #initialGrid will spawn a gr
 		theUniverse.grid.shouldBe expectedGrid
 	}
 }
-*/
