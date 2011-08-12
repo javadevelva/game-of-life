@@ -1,5 +1,6 @@
 package com.wakaleo.gameoflife.domain
 
+/*
 import static com.wakaleo.gameoflife.domain.Universe.seededWith;
 
 description "This story describes how new generations are spawned in the GOL universe"
@@ -42,3 +43,4 @@ scenario "A universe seeded with a single living cell will spawn an empty grid",
 		theUniverse.grid.shouldBe anEmptyGrid
 	}
 }
+*/

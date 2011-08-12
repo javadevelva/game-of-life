@@ -1,5 +1,5 @@
 package com.wakaleo.gameoflife.domain
-
+/*
 description "This story describes how to translate numbers into roman numerals"
 
 narrative "story description", {
@@ -26,3 +26,4 @@ scenario "The number #{number} plus 1 should be #{numberPlusOne}", {
         theNumberPlusOne.shouldBe  numberPlusOne
     }
 }
+*/
